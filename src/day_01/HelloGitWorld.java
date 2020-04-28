@@ -1,4 +1,4 @@
-package tests;
+package day_01;
 
 public class HelloGitWorld {
 

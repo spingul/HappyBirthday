@@ -1,4 +1,4 @@
-package tests;
+package day_01;
 
 public class GitFriday {
     public static void main(String[] args) {
